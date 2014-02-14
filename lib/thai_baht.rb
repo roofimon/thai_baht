@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 class ThaiBaht
   def initialize(amount)
     @amount = amount
